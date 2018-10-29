@@ -1,0 +1,10 @@
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\bin\Debug\FirstPractice.exe.config
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\bin\Debug\FirstPractice.exe
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\bin\Debug\FirstPractice.pdb
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\obj\Debug\FirstPractice.Form1.resources
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\obj\Debug\FirstPractice.Properties.Resources.resources
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\obj\Debug\FirstPractice.csproj.GenerateResource.cache
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\obj\Debug\FirstPractice.csproj.CoreCompileInputs.cache
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\obj\Debug\FirstPractice.exe
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\obj\Debug\FirstPractice.pdb
+C:\Users\lixiao\source\repos\FirstPractice\FirstPractice\obj\Debug\FirstPractice.csproj.ResolveComReference.cache
